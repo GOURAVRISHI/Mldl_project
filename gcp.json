@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "artful-palace-335801",
+  "private_key_id": "0954438daf07c5e480f8d2f2acbf8a2eddac580d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCgytna8NnpCLS0\n5ObcNuY0DkAPISfACOulHN2yXS48Rs8+rQw/q4Ns93PjmfDan6m1IIpLlBA252Rq\nXlIBNgPFaamx6OpibFL6O2s4S5nLekT5i0boNiAh3wcVP48C7uQVXHyzqUZNdSlz\njQK0Kqc7QEQn3a7QLsBUPmJBL2R+nKUtXuSTD0NwP/r9XAwVzcD7WOhz/Rw7VmEN\nGPaGJeSIQdNtK6tGBWqhkkS3CUAEXxXYqhTmIAFZRSASBe5oHU7rnFIj8NPy1z2s\n78R0FNY2+MnMkadEQCMv3DYRpNloNNRb1kAlqmLk2pBmmyJxcfM1mH8LT3GRkuYu\ntRt8d+QzAgMBAAECggEAM/VIz7R7ng+HoVrEdQ2ydsjSD3GF0EqxpvG8fAobSjQR\nfS3bIunv9rLBup8Akwz8AIEq30BRuwQr0Sl4c1a6gjziLpDWyIY7jAvOWmsnn/Z7\nOm40tA3ldTyGI+odcvOyNWrlCwNcqeP9yI6c/I456u4Z+A3tEu3AjZh5FJpVbYn6\ntY2D1cZUuxIJsNmhXrlDSpBQmoEg4hYpA1XVSXr7HJhjqjNSnK98zXyXXwNwJ7C3\n0K5M1dg4LZL/6/EndVTS5qwx4tN2Uu6qORs6Vv6q+4n9EWNEYeIQVTRTDunAFzIG\nUbuhyGk5dMA7y8mR3O0kdEM3CZ16YFcKsCt3rgQ+PQKBgQDQOMTBcl6KK6WKUzZH\nj06/MygOSi5cFnqk1OjiVcCDL/wWI15wEnUMeLdKdDmJYlisuqmrtU5tRow3KB0K\nNGLZTZsGFjINW8STnnP4Bhfen5razP9rgfD7g2ncORovZYuTw5XPal9mZUBEvYV0\nB6CfsvZEQWF9yT1g60r9r7KwnwKBgQDFsAQzikR9tD3Voi757unLejbGAJDJi8u2\nAx89BoyTUSJfN06GIXLLPqbg8+51PVx6sFKzqjufbTHukNFqyY83ftcbs0KUJyjY\nLRwh5ChBcTdy/fKFAA6Qh8TVEjYR88qH/0l1QhbnzbcMCJDVyPVmLouiCwZaRPWb\nCCTJKGT/7QKBgQCPNRwNuC1RdmdqVYTVfri4Q+TevyJXb5Z2W4C4eiXnlE8aosTG\n68rZAwV9Daas2JkIY3FiiVYhTg4NuWcPp6v8rKVccFOIYH840BgOk5JDKR6GMcvS\nExK8yUs7jYJ26q4uuKwGdbCbajPjkz1/6ecNLza1BwqYSpoOWIXBKOALHQKBgDYe\nInhNkMRs1ESomn2XVu96LIZ13y0dlQ3luuaE5XTq0CMKy/dSLs/O/fY1MQFtY+S+\nYlWG872IMhQiFwJJ3WgO1CpkH4TZV4geiUYJ5K9NpCVZucuJIXOVh1/hFWZCvB4Q\n1/Y+unCI02R679NmqS9o7JbWt818dVQUnaVn5oZdAoGAHOoLWUYSU6BNM5xJoK4r\nHKdfZWeJM1jx1+JUsdpzpsjOwvqKBEYQ3dWDSf6JJaV2cBKMKjdmWr50ol45Opjy\naLWFRc1nkjbt2MWCnZ2xYFaHmzgnrZ/kTwnDYSmkwiIp1hd2Nkn78zSuQEieNb70\nySVRAAxnt9GWu/JVKfX4W40=\n-----END PRIVATE KEY-----\n",
+  "client_email": "machinelearning09122021@artful-palace-335801.iam.gserviceaccount.com",
+  "client_id": "100423148049506954965",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/machinelearning09122021%40artful-palace-335801.iam.gserviceaccount.com"
+}
